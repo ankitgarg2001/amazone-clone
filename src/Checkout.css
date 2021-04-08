@@ -2,20 +2,39 @@
 .checkout {
     display: flex;
     padding: 20px;
-    background-color: white;
     height: max-content;
+    background-color: #EAEDED!important;
   }
-  
-  .checkout_ad {
+
+.checkout_ad {
     width: 100%;
     margin-bottom: 10px;
   }
 .color_text{
     color: #b22222;
 }
+.checkout_text{
+  margin-bottom: 10px;
+  z-index: 1;
+}
 
 .checkout_title {
+    background-color: #FFF;
+    width: 1130px;
+    z-index: 1;
     margin-right: 10px;
     padding: 10px;
     border-bottom: 1px solid lightgray;
 }
+.checkout_right{
+  z-index: 1;
+  display: flex;
+  flex-direction: row;
+}
+.checkout_item{
+  background-color: #FFF;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+}
+
