@@ -4,7 +4,7 @@ import Subtotal from "./Subtotal";
 import CheckoutProduct from './CheckProduct';
 import {useStateValue} from './StateProvider';
 function Checkout() {
-    const[{basket},dispatch]=useStateValue();
+    const[{basket,user},dispatch]=useStateValue();
     return (
         <div className="checkout">
             <div className="checkout_left">
@@ -19,6 +19,7 @@ function Checkout() {
                     Get Instant refund on cancellations | Zero payment failures
                 </div>
                 <div className="checkout_title">
+                    <h3>Hello, {user?.email}</h3>
                     <h2>Shopping Cart</h2>
                 </div>
                 <div className="checkout_right">
