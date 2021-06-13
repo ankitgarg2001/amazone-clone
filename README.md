@@ -69,3 +69,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # amazone-clone
+
+The home Screen :
+
+![5](https://user-images.githubusercontent.com/56186067/121800890-f1700600-cc51-11eb-8daa-9d25b102c4b2.jpg)
+
+The Authentication Page :
+
+![6](https://user-images.githubusercontent.com/56186067/121800895-f8971400-cc51-11eb-881c-b2ada1279307.jpg)
+
+The Cart System :
+
+![7](https://user-images.githubusercontent.com/56186067/121800903-05b40300-cc52-11eb-914b-6e2418934b83.jpg)
+
+
